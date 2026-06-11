@@ -1,0 +1,30 @@
+# 数据集
+datasets/
+
+# 模型权重
+models/
+
+# 输出结果
+outputs/
+
+# 编译产物
+report.pdf
+modle.pdf
+*.aux
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
