@@ -8,7 +8,6 @@ models/
 outputs/
 
 # 编译产物
-report.pdf
 modle.pdf
 *.aux
 *.log
